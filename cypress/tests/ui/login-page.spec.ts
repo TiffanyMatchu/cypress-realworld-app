@@ -11,7 +11,7 @@ describe("User Sign-up and Login", () => {
     cy.getBySel("sidenav-user-full-name").invoke('text').should('eq', 'Arely K')
   });
 
-  it.only("clearing username text triggers validation warning", () => {
+  it("clearing username text triggers validation warning", () => {
     cy.getBySel("signin-username").type("Tavares_Barrows");
     cy.focused().clear();
     cy.get('body').click(0,0);
