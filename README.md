@@ -1,4 +1,4 @@
-<h2> Cloned from Cypress.io reference project set up here <a href="https://github.com/cypress-io/cypress-realworld-app)">cypress-realworld-app
+<h2> Cloned from Cypress.io reference project set up here <a href="https://github.com/cypress-io/cypress-realworld-app">cypress-realworld-app
 </a></h1>
 <p>Cleared out existing tests and commands to create a testing playground</p> 
 
