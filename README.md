@@ -6,4 +6,5 @@
 
 <ol>
   <li><a href="https://github.com/TiffanyMatchu/cypress-realworld-app/blob/main/cypress/tests/ui/login-page.spec.ts">login-page.spec.ts</a></li>
+  <li><a href="https://github.com/TiffanyMatchu/cypress-realworld-app/blob/main/cypress/tests/ui/new-transaction.spec.ts">new-transaction.spec.ts</a></li>
 </ol>
