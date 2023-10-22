@@ -1,4 +1,4 @@
-describe("User Sign-up and Login", () => {
+describe("New Transaction", () => {
   beforeEach(() => {
     cy.visit("http://localhost:3000/")
   });
